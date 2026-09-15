@@ -1,0 +1,25 @@
+# Next.js / Frontend
+node_modules/
+.next/
+out/
+
+# Python / Backend
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+chroma_db/
+
+# Secrets
+.env
+.env.local
+.env.development
+.env.production
+
+docs/
